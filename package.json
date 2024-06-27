@@ -1,0 +1,24 @@
+{
+  "name": "token-cache-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hegupta-adbe/token-cache-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hegupta-adbe/token-cache-gen/issues"
+  },
+  "homepage": "https://github.com/hegupta-adbe/token-cache-gen#readme",
+  "dependencies": {
+    "@adobe/helix-google-support": "^3.1.14",
+    "@adobe/helix-onedrive-support": "^11.3.37"
+  }
+}
